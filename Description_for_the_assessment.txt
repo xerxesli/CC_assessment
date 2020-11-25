@@ -4,12 +4,14 @@ I am sorry that the work is incomplete due to unfamiliarity with the area and th
 
 part1:
 The document "part1\test_case_part1.xlsx" listed the items I decide to test.
+Test tool: Node.js
 It covered feature, boundary, stress, performance and security tests.
 But the test script is only implemented for 2 cases: basic GET and POST method.
 The script "part1/run_test1.js" can be run in Node.js 14.
 
 part2:
-The document "part2\test_case_part2.xlsx" listed the test items for the 6 scenarios, which planned to use Selenium for testing.
+The document "part2\test_case_part2.xlsx" listed the test items for the 6 scenarios.
+Planned test tool: Node.js and Selenium
 The "part2\bugs.xlsx" list some bugs for the JPetStore.
 But the automation script is not implemented yet.
 
